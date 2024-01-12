@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433839983653",
+    "project_id": "vimes-test-5a783",
+    "storage_bucket": "vimes-test-5a783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433839983653:android:247ede52ddde87b15103cc",
+        "android_client_info": {
+          "package_name": "com.example.vimes_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbklszOTO7B9bqYMY1h5j3t1au4mdJMgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
